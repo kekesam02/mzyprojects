@@ -1,0 +1,11 @@
+
+开发经验：约定 > 配置 > 编码 > 完善（如何做集群，监控怎么做）
+
+1：创建一个项目:myz-dubbo-order-service-consumber
+2: 配置pom.xml依赖包:
+	<dependency>
+        <groupId>com.alibaba.boot</groupId>
+        <artifactId>dubbo-spring-boot-starter</artifactId>
+        <version>0.2.0</version>
+	</dependency>
+3:
